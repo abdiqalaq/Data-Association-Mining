@@ -81,3 +81,5 @@ Marketing opportunities: Meal bundles or combo discounts can be designed based o
 Dataset cleaned and preprocessed to remove duplicates.
 Both Apriori and FP-Growth can be implemented for comparison (optional bonus).
 Lowering support and confidence thresholds increases the number of discovered rules.
+
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/abdiqalaq/Data-Association-Mining/blob/main/Association_Rule_Mining.ipynb)
